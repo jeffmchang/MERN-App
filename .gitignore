@@ -1,0 +1,3 @@
+# we don't want the node modules or the .env files to be pushed to github
+node_modules
+.env
